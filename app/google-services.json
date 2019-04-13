@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701716241952",
+    "firebase_url": "https://careerpathfinder-1dd15.firebaseio.com",
+    "project_id": "careerpathfinder-1dd15",
+    "storage_bucket": "careerpathfinder-1dd15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701716241952:android:30a7cba90ee1e193",
+        "android_client_info": {
+          "package_name": "com.careerpathfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701716241952-2trh4qh31eqfjuqs2uq8gdlg77jl8mbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.careerpathfinder",
+            "certificate_hash": "8afffd741dbf4718baaf87aa5c889aff91b02dae"
+          }
+        },
+        {
+          "client_id": "701716241952-odrb21jfveppg8kg3mep64b0jseq8uth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsU2UPqs5RhZ5LCYJGCKlAatNd2RFPJgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701716241952-odrb21jfveppg8kg3mep64b0jseq8uth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
